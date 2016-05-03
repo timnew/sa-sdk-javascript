@@ -2,8 +2,4 @@
 node_modules
 dist/
 product
-app/template/define_url.js
-app/template/head_box.js
-app/template/popover_box.js
-app/template/testmode_box.js
-app/template/trigger_box.js
+app/template/*.js
